@@ -1,3 +1,3 @@
 # demonube
 
-Mi repositorio de práctica
+práctica
